@@ -16,4 +16,4 @@ Login/ Signup ->
 2. Semi Rights : View Data, Logout
 3. None Rights : Logout
 
-Need to allow CORS in the browser is running on local machine
+Need to allow CORS in the browser if running on local machine
