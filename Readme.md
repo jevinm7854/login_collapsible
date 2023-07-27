@@ -1,6 +1,6 @@
 To Start Application:
 
-1. Backend server + DB : cd back -> cd venv-> flask run
+1. Backend server + DB : cd back -> flask run
 2. Frontend : cd front -> npm start/npm run build
 
 For Testing:
